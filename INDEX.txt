@@ -1,0 +1,50 @@
+
+
+      ***** Classes *****
+
+    **Introduction of new version of JavaScript (ES6) introduced the use of 
+    classes instead of functions.Classes are similar to functions.They use
+     class keyword instead of function keyword. They use constructor method 
+     to initialise. How to remove all classes that begin with a certain string
+      in JavaScript? What are the classes and proxies in JavaScript 
+
+
+   Object Orientation is a software development paradigm that follows real-world 
+modelling. Object Orientation, considers a program as a collection of objects that 
+communicates with each other via mechanism called methods. ES6 supports these 
+object-oriented components too.
+Object-Oriented Programming Concepts
+To begin with, let us understand 
+ Object: An object is a real-time representation of any entity. According to Grady 
+Brooch, every object is said to have 3 features:
+o State: Described by the attributes of an object.
+o Behavior: Describes how the object will act.
+o Identity: A unique value that distinguishes an object from a set of similar 
+such objects.
+ Class: A class in terms of OOP is a blueprint for creating objects. A class 
+encapsulates data for the object.
+ Method: Methods facilitate communication between objects.
+Let us translate these Object-Oriented concepts to the ones in the real world. For example:
+A car is an object that has data (make, model, number of doors, Vehicle Number, etc.) 
+and functionality (accelerate, shift, open doors, turn on headlights, etc.)
+Prior to ES6, creating a class was a fussy affair. Classes can be created using the class
+keyword in ES6. 
+Classes can be included in the code either by declaring them or by using class expressions.
+Syntax: Declaring a Class
+class Class_name
+{
+}
+
+    ***  Class: A class in terms of OOP is a blueprint for creating objects.
+     A class 
+encapsulates data for the object.
+
+    **Syntax: Declaring a Class
+class Class_name
+{
+}
+
+    **Syntax: Class Expressions
+var var_name=new Class_name
+{
+}
